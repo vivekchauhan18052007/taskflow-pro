@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.active:active {
+  opacity: 0.5;
+}
+
+.hover:hover {
+  cursor: pointer;
+}
