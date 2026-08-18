@@ -127,11 +127,6 @@ npm run dev
 <img width="1365" height="680" alt="Screenshot 2026-08-18 132955" src="https://github.com/user-attachments/assets/f0217c87-2401-4f6d-89a1-690b30ce8aa2" />
 
 
-
-## 🔗 Live Demo
-
-Coming soon.
-
 ## 🎯 Purpose
 
 This project was built as part of my React learning journey to strengthen my understanding of modern React concepts, component-based architecture, state management, routing, performance optimization, and reusable UI development.
